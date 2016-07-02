@@ -31,5 +31,5 @@ the traffic in the main issue tracker reasonable.
 
 [itch]: https://github.com/itchio/itch
 [itch issue tracker]: https://github.com/itchio/itch/issues
-[app manifest]: https://itch.io/docs/itch/using/sandbox.html
-[itch.io sandbox]: https://itch.io/docs/itch/integrating/manifest.html
+[itch.io sandbox]: https://itch.io/docs/itch/using/sandbox.html
+[app manifest]: https://itch.io/docs/itch/integrating/manifest.html
